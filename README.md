@@ -1,6 +1,4 @@
-## MP4 Clips to gif Converter
-
-:movie_camera: :video_camera: :sound:
+## :movie_camera: MP4 Clips to gif Converter :tada:
 
 #### requirements
 
