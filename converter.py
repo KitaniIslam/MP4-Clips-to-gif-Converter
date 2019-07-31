@@ -1,7 +1,7 @@
 import imageio
 import os
 
-clip = os.path.abspath('champe.MP4')
+clip = os.path.abspath('file_nime.mp4')
 print(clip)
 
 
